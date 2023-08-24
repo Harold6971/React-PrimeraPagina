@@ -1,7 +1,5 @@
-link del proyecto: https://react-primera-pagina.vercel.app/
-
 # Getting Started with Create React App
-
+## link del proyecto https://react-primera-pagina.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
